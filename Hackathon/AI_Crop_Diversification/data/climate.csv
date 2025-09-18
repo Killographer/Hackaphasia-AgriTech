@@ -1,0 +1,14 @@
+region,season,forecast_temp_c,forecast_rain_mm
+North,Kharif,24,520
+North,Rabi,14,220
+South,Kharif,28,900
+South,Rabi,20,400
+East,Kharif,26,820
+East,Rabi,18,380
+West,Kharif,27,600
+West,Rabi,16,280
+Central,Kharif,25,700
+Central,Rabi,17,320
+Karnataka,Kharif,27,850
+Karnataka,Rabi,19,420
+
